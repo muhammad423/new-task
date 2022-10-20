@@ -1,0 +1,146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+font-family: 'Roboto', sans-serif;
+overflow-x: hidden;
+
+}
+
+#main{
+    background-color: #ff6b81;
+}
+
+.header{
+    background-color: #ff6b81;
+    height: 100%;
+}
+.content .hhh{ font-size: 2.2rem;}
+
+.content .bbb{
+    color:#ff6b81 ;
+}
+.cont-one .icon{
+    background-color: #ff6b81;
+    color: white;
+}
+.big-one{
+    height: 100%;
+}
+ 
+.contect-one .p-card{
+    word-spacing: 2px;
+}
+.contect-one .hhh{
+    color: #ff6b81;
+}
+
+.contect-three .btn-four{
+    background-color: #ff6b81;
+}
+
+.fa-download{
+    background-color: #ff6b81;
+    color: white;
+}
+.sec-three{
+    height:100% ;
+}
+
+
+.sec-four{
+    height: 100%;
+}
+
+.dev-four .btn-four{
+    background-color: #ff6b81;
+}
+
+
+.sec-six{
+    background-color: #ff6b81;
+    height: 90vh;
+}
+
+
+.fa-circle-check{
+    color: hsl(351, 100%, 71%);
+}
+.sec-seven{
+    height: 100%;
+}
+
+.sec-seven .hhhh{
+    color: #ff6b81;
+}
+
+.img-eight .p-eight{
+    color: #ff6b81
+}
+
+.sec-eight{
+    height: 100%;
+}
+
+.sec-eight .h-eight{
+    color: #ff6b81;
+}
+
+.sec-nine{
+    background-color: #ff6b81;
+    height: 100%;
+   
+}
+
+.content-nine .h-nine{
+    word-spacing: 5px;
+    font-size: 2.5rem;
+}
+
+.sec-ten{
+    height: 100%;
+}
+
+.accordion-button{
+    background-color: #ff6b81;
+}
+
+.con-ten .h-ten{
+    color: #ff6b81;
+}
+
+.sec-eleven{
+    height: 100%;
+    margin-top: 10rem;
+}
+
+.cards-eleven .h-eleven{
+    color: #ff6b81;
+}
+.content-eleven .p-eleven{
+    word-spacing: 2px;
+   
+}
+.content-eleven .hh-eleven{
+    color: #ff6b81;
+}
+
+.sec-twelve{
+    height:100%;
+}
+
+.sec-last{
+    height: 100%;
+    
+    background-color: #081828;
+}
+
+.last-foter .l-btn{
+    background-color: #ff6b81;
+}
+
+.last-hypr .last-spn{
+    color: darkgray;
+}
+
